@@ -1,0 +1,57 @@
+html{
+	background:#FDA403;
+}
+
+.navbar a{
+	text-decoration:none;
+	color:#BED7DC;
+	text-align:center;
+	display:block;
+	padding:15px;
+	overflow:hidden;
+}
+
+.navbar ul{
+	list-style-type:none;
+	text-align:center;
+	overflow:hidden;
+	background:#00224D;
+	display:block;
+	border-radius:10px;
+}
+
+.navbar li{
+	float:left;
+}
+
+#home{
+	background:#F73859;
+	border-radius:6px;
+}
+
+#chemistry:hover{
+	background:red;
+}
+
+#physics:hover{
+	background:red;
+}
+#mathematics:hover{
+	background:red;
+}
+
+#jee:hover{
+	background:red;
+}
+
+#vd{
+	color:#00224D;
+}
+
+#id{
+	color:#00224D;
+}
+
+#rr{
+	padding-left:12em;
+}

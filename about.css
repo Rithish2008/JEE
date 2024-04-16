@@ -1,0 +1,49 @@
+html{
+	background:#FDA403;
+}
+
+.navbar a{
+	text-decoration:none;
+	color:#BED7DC;
+	text-align:center;
+	display:block;
+	padding:15px;
+	overflow:hidden;
+}
+
+.navbar ul{
+	list-style-type:none;
+	text-align:center;
+	overflow:hidden;
+	background:#00224D;
+	display:block;
+	border-radius:10px;
+}
+
+.navbar li{
+	float:left;
+}
+
+#home:hover{
+	background:red;
+}
+
+
+#physiscs:hover{
+	background:red;
+}
+
+
+#chemistry:hover{
+	background:red;
+}
+
+
+#maths:hover{
+	background:red;
+}
+
+#jee{
+	background:#F73859;
+	border-radius:6px;
+}

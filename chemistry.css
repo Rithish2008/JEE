@@ -1,0 +1,81 @@
+html{
+	background:#FDA403;
+}
+
+.navbar a{
+	text-decoration:none;
+	color:#BED7DC;
+	text-align:center;
+	display:block;
+	padding:15px;
+	overflow:hidden;
+}
+
+.navbar ul{
+	list-style-type:none;
+	text-align:center;
+	overflow:hidden;
+	background:#00224D;
+	display:block;
+	border-radius:10px;
+}
+
+.navbar li{
+	float:left;
+}
+
+#chemistry{
+	background:#F73859;
+	border-radius:6px;
+}
+
+#home:hover{
+	background:red;
+}
+
+#physics:hover{
+	background:red;
+}
+#mathematics:hover{
+	background:red;
+}
+
+#jee:hover{
+	background:red;
+}
+
+
+#tt{
+    padding-left: 20px;
+}
+
+#qq{
+	padding-left:17em;
+}
+
+#ww li{
+	list-style-type:none;
+}
+
+#ww a{
+	color:#820300;
+	text-decoration:none;
+}
+
+#rr{
+	color:#820300;
+}
+
+#ee li{
+	padding:5px;
+	color:red;
+}
+
+#ee{
+	color:#820300;
+}
+
+#ee a{
+	text-decoration:none;
+	color:#A34343;
+}
